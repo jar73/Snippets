@@ -3,7 +3,7 @@ Openhab
 ## Clear cache
 Stop OH if it is running.
 
-Delete the /var/lib/openhab2/cache and /var/lib/openhab2/tmp folders. For manual installations these folders are in your OH home folder under userdata.
+Delete the .... /openhab/userdata/cache and .. /openhab2/userdata/tmp folders. For manual installations these folders are in your OH home folder under userdata.
 
 Start OH.
 
